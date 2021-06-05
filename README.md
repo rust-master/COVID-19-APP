@@ -1,6 +1,6 @@
 #### COVID-19-APP. CORONA VIRUS App for Employees. Collecting 15 Days Data from Employees and Company will get results.
 
-# Google Sigin Method Use
+### Google Sigin Method Use
 <img src="1.jpeg" width="300" height="510">
 
 # Displaying Data From Google And Taking It From User And Storing It To Realtime Database (Firebase)
